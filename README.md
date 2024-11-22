@@ -8,8 +8,8 @@
 
 This README is broken down into the following sections:
 
-- [cpp](#cpp) - the cpp code setup running.
- - [py](#py) - the python code base on cpp version
+- [cpp](#C++) - the cpp code setup running.
+ - [py](#Python) - the python code base on cpp version
  
  Clone the repository
  ```
